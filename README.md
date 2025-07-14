@@ -15,14 +15,22 @@ Tabela com os links para as devidas questões.
 
 | Problema | Dificuldade | Método | Solução Código | Responsável                             |
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
-| [Problema 123]() | Difícil (6) | PD | [123.py]() | [Rafael](https://github.com/rmatuda) |
-| [Problema 1235](aaa) | Difícil (5) | PD | [1235.py]() | [Rafael](https://github.com/rmatuda) |
-| [Problema 493](https://leetcode.com/problems/reverse-pairs/description/) | Difícil (7) |DC | [.cpp](https://github.com/projeto-de-algoritmos-2025/DC_LeetCode_RC/blob/master/questao493/solve.cpp) | [Caio](https://github.com/caiohabibe) |
-| [Problema 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Difícil (7) |DC | [.cpp](https://github.com/projeto-de-algoritmos-2025/DC_LeetCode_RC/tree/master/questao315/solve.cpp) | [Caio](https://github.com/caiohabibe) |
+| [Problema 123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil (6) | PD | [123.py](https://github.com/projeto-de-algoritmos-2025/PD_leetcode_RC/blob/master/Questoes/123.py) | [Rafael](https://github.com/rmatuda) |
+| [Problema 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Difícil (5) | PD | [1235.py](https://github.com/projeto-de-algoritmos-2025/PD_leetcode_RC/blob/master/Questoes/1235.py) | [Rafael](https://github.com/rmatuda) |
+| [Problema ]() | Difícil (7) | PD | [.cpp]) | [Caio](https://github.com/caiohabibe) |
+| [Problema ]() | Difícil (7) | PD | [.cpp]() | [Caio](https://github.com/caiohabibe) |
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [1235 (Difícil) ](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+
+![PrintResolucao1235](/Questoes/1235.png)<br>
+https://www.youtube.com/watch?v=HeR9BTA2rxw
+
+### [123 (Difícil) ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+
+![PrintResolucao123](/Questoes/123.png)<br>
+https://www.youtube.com/watch?v=BP2qXzJzOCk
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
