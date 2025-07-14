@@ -32,6 +32,17 @@ https://www.youtube.com/watch?v=HeR9BTA2rxw
 ![PrintResolucao123](/Questoes/123.png)<br>
 https://www.youtube.com/watch?v=BP2qXzJzOCk
 
+### [42 (Difícil) ](https://leetcode.com/problems/trapping-rain-water/)
+
+![PrintResolucao42](/Questoes/Capturar.PNG)<br>
+
+### [115 (Difícil) ](https://leetcode.com/problems/distinct-subsequences/)
+
+![PrintResolucao115](/Questoes/cap2.PNG)<br>
+
+# Video de resolucao
+https://youtu.be/PhipKsFfcMs
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
